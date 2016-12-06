@@ -1,0 +1,13 @@
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\BabeLua.csprojResolveAssemblyReference.cache
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\ToolWindows\FolderWindowItem.baml
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\Editor\OutlineMarginControl.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\ToolWindows\FolderWindow.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\ToolWindows\FolderWindowItem.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\ToolWindows\OutlineWindow.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\ToolWindows\SearchControl.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\ToolWindows\SettingWindow.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\OverwriteFileDialog.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\TaskProgressBar.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\GeneratedInternalTypeHelper.g.cs
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\BabeLua_MarkupCompile.cache
+F:\CSharpProject\BabeLua2\BabeLua\obj\Dev10.0\Debug\BabeLua_MarkupCompile.lref
